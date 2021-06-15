@@ -1,0 +1,12 @@
+- probably want postman for ease of post requests
+- get endpoint -> lookup from C*
+- post endpoint -> insert to C*
+- validation on post request
+- example validaion on lookup maybe?
+- make some fancy logic fam.
+
+- cassandra db : itemId, cost, name, inventoryCount, basePrice, lastUpdatedTimestamp
+- keys would probably be itemId, name(?)
+
+- probably like make proper comments idk
+- set up testing at some point - junit+mockito
